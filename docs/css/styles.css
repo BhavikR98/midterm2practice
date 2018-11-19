@@ -10,8 +10,8 @@
     text-align: center;
     height: 100px;
     background-color: black;
-    margin-left: 720px;
-    margin-right: 704px;
+    margin-left: 620px;
+    margin-right: 538px;
     padding-top: 5px;
 }
 
@@ -119,6 +119,10 @@
     padding-left: 720px;
 }
 
+.paddingLeftImage {
+    padding-left: 620px;
+}
+
 .background {
     background-color: black;
 }
@@ -136,7 +140,7 @@
 }
 
 .overlayHalf {
-    left: 720px;
+    left: 620px;
     padding-top: 310px;
 }
 
