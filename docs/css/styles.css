@@ -1,0 +1,73 @@
+#background {
+    background-color: white;
+}
+#wrapper {
+    width: 960px;
+}
+#footer {
+    text-align: center;
+    line-height: 100px;
+    height: 100px;
+}
+#sidebar {
+    opacity: 0.8%;
+}
+.font {
+    font-family: "Century Gothic", sans-serif;
+}
+.center {
+    margin: auto;
+}
+.floatLeft {
+    float: left;
+}
+.whiteText {
+    color: white;
+}
+.clear {
+    padding: 0px;
+    margin: 0px;
+}
+.clearFix {
+    clear: both;
+}
+.height {
+    height: 130px;
+}
+.halfPage {
+    width: 480px;
+}
+.rightAlignText {
+    text-align: right;
+}
+.paddingHalfLR {
+    width: 418px;
+    padding-left: 31px;
+    padding-right: 31px;
+}
+.paddingHalfTB {
+    width: 418px;
+    padding-top: 31px;
+    padding-bottom: 31px;
+}
+.background {
+    background-color: black;
+}
+.image {
+    background-image: url("/docs/images/4x4-adventure-automobile-1571783.jpg");
+}
+.rightMargin {
+    margin-right: 31px;
+}
+.sidebarTop {
+    top: 200px;
+}
+.overlayHalf {
+    position: absolute;
+    opacity: 0.8%;
+    background-color: black;
+}
+.container {
+    position: center;
+    width: 100%;
+}
