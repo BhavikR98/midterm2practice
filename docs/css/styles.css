@@ -33,6 +33,32 @@
     opacity: .8;
 }
 
+#sidePic {
+    width: 320px;
+    height: 700px;
+    position: relative;
+    padding-top: 10px;
+    padding-left: 690px;
+}
+#sideCard {
+    width: 316px;
+    height: 280px;
+    position: absolute;
+}
+#aboutHeading {
+    position: relative;
+    font-size: 50px;
+    margin-top: -700px;
+    width: 260px;
+    padding-left: 1070px;
+    font-weight: bold;
+}
+#aboutText {
+    position: relative;
+    margin-top: -30px;
+    width: 410px;
+    padding-left: 1100px;
+}
 .font {
     font-family: "Century Gothic", sans-serif;
 }
@@ -44,20 +70,23 @@
 .floatLeft {
     float: left;
 }
-
+.floatRight {
+    float: right;
+}
 .whiteText {
     color: white;
 }
 
-.clear {
+.clearPadding {
     padding: 0px;
-    margin: 0px;
 }
 
 .clearFix {
     clear: both;
 }
-
+.clearMargin {
+    margin: 0px;
+}
 .height {
     height: 130px;
 }
@@ -121,5 +150,17 @@
     padding-top: 28px;
 }
 .containerTextPadding {
-    padding-left: 120px;
+    padding-left: 300px;
+}
+.containerFontSize {
+    font-size: 35px;
+}
+.aboutBorder {
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-top: 16px;
+    padding-bottom: 45px;
+}
+.tableBorder {
+    border: 1px solid black;
 }
