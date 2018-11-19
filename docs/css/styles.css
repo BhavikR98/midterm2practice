@@ -10,8 +10,8 @@
     text-align: center;
     height: 100px;
     background-color: black;
-    margin-left: 720px;
-    margin-right: 704px;
+    margin-left: 620px;
+    margin-right: 538px;
     padding-top: 5px;
 }
 
@@ -118,13 +118,14 @@
 }
 
 .paddingHalfTB {
+    padding-left: 100px;
     width: 418px;
     padding-top: 31px;
     padding-bottom: 31px;
 }
 
 .paddingLeft {
-    padding-left: 720px;
+    padding-left: 620px;
 }
 
 .background {
