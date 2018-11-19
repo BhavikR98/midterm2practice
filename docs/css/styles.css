@@ -40,11 +40,13 @@
     padding-top: 10px;
     padding-left: 720px;
 }
+
 #sideCard {
     width: 316px;
     height: 280px;
     position: absolute;
 }
+
 #aboutHeading {
     position: relative;
     font-size: 50px;
@@ -53,12 +55,14 @@
     padding-left: 1070px;
     font-weight: bold;
 }
+
 #aboutText {
     position: relative;
     margin-top: -10px;
     width: 410px;
     padding-left: 1100px;
 }
+
 .font {
     font-family: "Century Gothic", sans-serif;
 }
@@ -70,9 +74,11 @@
 .floatLeft {
     float: left;
 }
+
 .floatRight {
     float: right;
 }
+
 .whiteText {
     color: white;
 }
@@ -84,9 +90,11 @@
 .clearFix {
     clear: both;
 }
+
 .clearMargin {
     margin: 0px;
 }
+
 .height {
     height: 130px;
 }
@@ -149,29 +157,36 @@
 .footerText {
     padding-top: 28px;
 }
+
 .containerTextPadding {
     padding-left: 300px;
 }
+
 .containerFont {
     font-size: 35px;
     margin-top: -160px;
 }
+
 .aboutBorder {
     border: 1px solid black;
     padding-left: 20px;
     padding-top: 16px;
     padding-bottom: 45px;
 }
+
 .tableBorder {
     border: 1px solid black;
 }
+
 .tablePadding {
     padding-left: 1225px;
     padding-bottom: 80px;
 }
+
 a {
     text-decoration: none;
 }
+
 a:hover {
     text-decoration: underline;
 }
