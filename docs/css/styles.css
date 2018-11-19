@@ -6,11 +6,20 @@
 }
 #footer {
     text-align: center;
-    line-height: 100px;
     height: 100px;
-}
+    background-color: black;
+    margin-left: 720px;
+    margin-right: 703px; }
 #sidebar {
     opacity: 0.8%;
+}
+#h1 #h2 {
+    position: relative;
+    top:115px;
+}
+#container {
+    position: relative;
+    background-color: black;
 }
 .font {
     font-family: "Century Gothic", sans-serif;
@@ -34,6 +43,9 @@
 .height {
     height: 130px;
 }
+.heightContent {
+    height: 554px;
+}
 .halfPage {
     width: 480px;
 }
@@ -50,6 +62,9 @@
     padding-top: 31px;
     padding-bottom: 31px;
 }
+.paddingLeft {
+    padding-left: 720px;
+}
 .background {
     background-color: black;
 }
@@ -63,11 +78,14 @@
     top: 200px;
 }
 .overlayHalf {
-    position: absolute;
-    opacity: 0.8%;
-    background-color: black;
+    left: 720px;
+    padding-top: 310px;
 }
-.container {
-    position: center;
-    width: 100%;
+.blackCenterBox {
+    margin-right: 1903px;
+    display: block;
+    opacity: .8;
+}
+.footerText {
+    padding-top: 50px;
 }
