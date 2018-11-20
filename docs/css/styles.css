@@ -10,8 +10,8 @@
     text-align: center;
     height: 100px;
     background-color: black;
-    margin-left: 620px;
-    margin-right: 538px;
+    margin-left: 720px;
+    margin-right: 704px;
     padding-top: 5px;
 }
 
@@ -60,7 +60,7 @@
     padding-left: 1100px;
 }
 .font {
-    font-family: "Century Gothic", sans-serif;
+
 }
 
 .center {
@@ -120,7 +120,7 @@
 }
 
 .paddingLeftImage {
-    padding-left: 620px;
+    padding-left: 720px;
 }
 
 .background {
@@ -140,7 +140,7 @@
 }
 
 .overlayHalf {
-    left: 620px;
+    left: 720px;
     padding-top: 310px;
 }
 
